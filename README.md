@@ -61,3 +61,9 @@ ____
 
 <a id="2"></a>
 #### How Do Forex Brokers Work?
+* 🧭 1. You Don’t Trade in a Public FX Market
+* 🔄 2. You're Speculating, Not Owning
+* ⚠️ 3. Counterparty Risk Is Real
+* 📊 4. Types of Execution Models
+* 💵 5. Where Do Prices Come From?
+* ✅ Final Takeaways
