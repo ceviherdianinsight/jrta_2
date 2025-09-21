@@ -85,7 +85,7 @@ ____
   - Always verify that quoted prices are fair and sourced from reputable liquidity providers or market data feeds.
   - Consider potential conflicts of interest with B-Book brokers, and review the firm's internal hedging policies.
 
- <a name="id"></a>
+<a name="id"></a>
 [**Back to HOME**](#100)
 
 
@@ -124,3 +124,5 @@ ____
   - Checked trader forums/reviews → mostly positive feedback with no major unresolved issues.
 
 
+<a name="id"></a>
+[**Back to HOME**](#100)
