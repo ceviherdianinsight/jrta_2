@@ -66,4 +66,8 @@ ____
 * ⚠️ 3. Counterparty Risk Is Real
 * 📊 4. Types of Execution Models
 * 💵 5. Where Do Prices Come From?
-* ✅ Final Takeaways
+* ✅ Final Takeaways:
+  - You're placing a cash-settled bet with the broker, not accessing an FX exchange.
+  - Understand the broker’s execution model (A-, B-, or hybrid) to gauge how they manage risk and generate income.
+  - Always verify that quoted prices are fair and sourced from reputable liquidity providers or market data feeds.
+  - Consider potential conflicts of interest with B-Book brokers, and review the firm's internal hedging policies.
