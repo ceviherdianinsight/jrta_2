@@ -60,7 +60,7 @@ ____
 [**Back to HOME**](#100)
 
 <a id="2"></a>
-#### How Do Forex Brokers Work?
+#### 2. How Do Forex Brokers Work?
 * 🧭 1. You Don’t Trade in a Public FX Market:
   - When you open a trade with a retail forex broker, you are not trading in the real institutional FX market, there’s no matching with other traders.
   - Your trade is a bilateral bet with the broker acting as the counterparty. 
@@ -90,7 +90,7 @@ ____
 
 
 <a id="3"></a>
-#### Is the Forex Broker a Legit Company?
+#### 3. Is the Forex Broker a Legit Company?
 * 🔒 Regulation & Company Verification:
   - Broker is regulated by a reputable authority (FCA, NFA, ASIC, CySEC, etc.).
   - License number is verifiable on the regulator’s official website.
