@@ -85,7 +85,10 @@ ____
   - Always verify that quoted prices are fair and sourced from reputable liquidity providers or market data feeds.
   - Consider potential conflicts of interest with B-Book brokers, and review the firm's internal hedging policies.
 
- 
+ <a name="id"></a>
+[**Back to HOME**](#100)
+
+
 <a id="3"></a>
 #### Is the Forex Broker a Legit Company?
 * 🔒 Regulation & Company Verification:
