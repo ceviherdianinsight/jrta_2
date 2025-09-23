@@ -9,7 +9,7 @@
 
 [3. Is the Forex Broker a Legit Company?](#3)
 
-[4-Who Trades Forex?](#4)
+[4-Is the Forex Broker Licensed and Regulated?](#4)
 
 [5-Why Trade Forex?](#5)
 
@@ -126,3 +126,14 @@ ____
 
 <a name="id"></a>
 [**Back to HOME**](#100)
+
+
+<a id="4"></a>
+#### 4. Is the Forex Broker Licensed and Regulated?
+
+* ✅ What Makes a Broker Regulated?
+* ⚠ Unregulated Brokers: Risks & Red Flags
+* 🔒 Why Choose a Regulated Broker?
+* 🧪 How to Verify a Broker’s Regulation
+* 🌍 Local Presence & Regulatory Arbitrage
+* 🏁 Final Takeaways
