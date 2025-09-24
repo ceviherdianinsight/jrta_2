@@ -13,7 +13,7 @@
 
 [5-What Are You Actually Trading In Forex?](#5)
 
-[6-Margin Trading 101: Understand How Your Margin Account Works](#6)
+[6-Trading Forex with CFDs](#6)
 
 
 ____
@@ -189,3 +189,9 @@ ____
 ✅ Key Takeaway: 
 Retail forex trading is not ownership of currencies, it’s speculation on exchange rate movement via contracts provided by brokers. You trade with your broker, not the broader FX market. The broker aggregates and hedges on their terms, and any conflict of interest or order routing strategy is internal to their operations.
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="6"></a>
+#### 6. What Is a Forex CFD?
