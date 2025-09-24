@@ -194,4 +194,12 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 
 
 <a id="6"></a>
-#### 6. What Is a Forex CFD?
+#### 6. Trading Forex with CFDs
+📌 What Is a Forex CFD?
+- CFD stands for Contract for Difference, a derivative that mirrors the price movement of an underlying asset without transferring ownership
+- In a forex CFD, you're speculating on the change in price of a currency pair (e.g. EUR/USD), not holding the actual currencies 
+🧠 How Does a Forex CFD Work?
+💸 Leverage & Margin
+📊 Benefits of Forex CFDs
+⚠️ Risks Involved
+✅ In Summary: Forex CFDs at a Glance
