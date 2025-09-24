@@ -17,6 +17,9 @@
 
 [7-Where Are Retail Forex Traders Actually Trading?](#7)
 
+[8-https://www.babypips.com/learn/forex/how-forex-brokers-manage-risk-make-money](#8)
+
+
 
 
 ____
