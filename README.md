@@ -259,3 +259,23 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Counterparty: Your broker, always
 - Institutional interbank FX: Brokers hedge here not retail traders
 - Claims of direct market access: Usually misleading for retail accounts
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="8"></a>
+#### 8. How Forex Brokers Manage Their Risk and Make Money
+🏦 What Is Broker Market Risk Exposure?: When you place a trade, your broker takes the opposite side of it, so they face market risk too. Your trade does not go directly into the institutional FX market—it’s a private agreement with your broker.
+💰 How Brokers Make Money:
+- B-Book brokers earn from client losses and spreads, similar to a casino. Retail traders losing frequently translates to stable profit margins.
+- A-Book brokers have no directional exposure, they profit through transaction spreads, commissions, or financing charges.
+- C-Book brokers may gain additional profits by selectively hedging, allowing them to benefit even when hedging.
+✅ What to Watch For:
+- Brokers may mix execution methods depending on client behavior or account size, a hybrid or algorithmic routing model.
+- Transparency matters: Find whether the broker clearly discloses execution policies such as A-, B-, or C-Book routing.
+- Always check if a broker hedges your position or simply holds it internally, especially if they promote “DMA” or “STP” to institutional pools.
+✅ Bottom Line
+- B-Book = internal risk, profitable when clients lose.
+- A-Book = hedged risk, earns via fees and spreads.
+- C-Book = hybrid hedge, retains some risk for profit.
