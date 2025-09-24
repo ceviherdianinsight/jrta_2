@@ -15,6 +15,9 @@
 
 [6-Trading Forex with CFDs](#6)
 
+[7-Where Are Retail Forex Traders Actually Trading?](#7)
+
+
 
 ____
 
@@ -227,3 +230,32 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Leverage: High, small deposit, large exposure
 - Costs: Spreads, commissions, overnight financing
 - Risks: Leverage, market volatility, broker credit risk, regulatory limits
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="7"></a>
+#### 7. Where Are Retail Forex Traders Actually Trading?
+🧭 Where Do Retail Forex Traders Trade?
+- Retail forex traders do NOT trade in the actual FX interbank/institutional market
+- The FX market is vast and fragmented, modeled as a “giant lake” with large institutions sailing in big boats, while retail brokers are smaller boats on the same lake
+  
+🐟 You’re in an Aquarium on the Broker’s Boat
+- Your retail broker is the only party you ever trade with—they act as both market access provider and counterparty
+- You’re metaphorically in an aquarium on the broker’s boat, not interacting with the broader market or other clients
+  
+⚙️ Broker Market-Making & Aggregation
+- Brokers typically aggregate (net) client trades and may hedge some or all in the institutional market to manage risk
+- Yet each individual trade remains within the broker’s internal system unless they deliberately hedge it externally
+  
+🚫 Beware Interbank Access Claims
+- Retail traders cannot access the interbank FX market, even if the broker participates there. Brokers may claim "direct market access," but your trades stay inside the broker’s environment
+- All orders both buys and sells are executed internally; your broker is always the counterparty
+  
+📋 Quick Recap Table
+- Trading venue: Broker’s internal system only
+- Actual market access: None for retail participants
+- Counterparty: Your broker, always
+- Institutional interbank FX: Brokers hedge here not retail traders
+- Claims of direct market access: Usually misleading for retail accounts
