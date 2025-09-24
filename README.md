@@ -19,7 +19,7 @@
 
 [8-How Forex Brokers Manage Their Risk and Make Money](#8)
 
-[8-B-Book: How Forex Brokers Manage Their Risk](#9)
+[9-B-Book: How Forex Brokers Manage Their Risk](#9)
 
 
 
