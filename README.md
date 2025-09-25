@@ -33,6 +33,9 @@
 
 [15-Why Do Forex Brokers B-Book?](#15)
 
+[16-The “Hybrid Model” Used By Forex Brokers](#16)
+
+
 
 
 
@@ -502,3 +505,40 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - But with more exposure to risk if market moves strongly in favor of clients. Good risk management is required.
   
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="16"></a>
+#### 16. The “Hybrid Model” Used By Forex Brokers
+⚙ What Is the Hybrid Broker Model
+- Brokers using a hybrid model combine different execution/risk-handling methods: some trades are hedged externally (A-Book or STP), some are handled internally (B-Book), and some may be internalized (matched between clients)
+- The broker decides which trades (or which clients) go through which path based on various factors (trade size, profitability, risk profile, etc.)
+  
+🧮 Customer Profiling & Order Routing
+- Brokers use profiling: analyzing customers’ trading behaviors. Some important criteria:
+  - Deposit size (how much money they put in)
+  - Trade size / volume
+  - Profitability history (how often they win or lose)
+  - Use of risk controls (stop-loss, leverage, number of trades)
+- Based on profiling, the broker’s order execution engine or routing system automatically routes trades to A-Book or B-Book or internal handling. 
+
+🔄 Trade Handling Examples
+- Broker might send small or unprofitable traders to B-Book, keeping their risk internal.
+- Larger trades or those by profitable / experienced traders may be hedged via LPs (A-Book or STP) to avoid risking large losses. 
+
+🏢 Large vs Small Brokers
+- Large brokers with many clients have more ability to internalize (match) client orders (long vs short) to reduce exposure and reduce how much external hedging is needed.
+- Smaller brokers may not have enough order flow to internalize, so they will B-Book smaller trades up to some risk limit, and hedge any excess risk.
+  
+
+👍 Benefits:
+- Ability to provide competitive spreads because brokers can offset many trades internally, reducing external hedge costs.
+- Flexibility: they can mitigate risk by choosing which trades to hedge and which to internalize. 
+
+⚠ Risks
+- If they mismanage the B-Book exposure (too many winning clients or correlated trades), big losses can occur.
+- Potential for conflict of interest: clients may be routed to B-Book when brokers assume they’ll lose, etc. 
+
+✅ Key Takeaway
+- Most forex brokers operate under a hybrid model rather than purely A-Book or purely B-Book.
+- For a trader, the important thing is price transparency, fair execution, and having clear policies/disclosures about how order routing (A vs B vs internalization) works. 
