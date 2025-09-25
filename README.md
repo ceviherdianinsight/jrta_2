@@ -21,6 +21,10 @@
 
 [9-B-Book: How Forex Brokers Manage Their Risk](#9)
 
+[10-A-Book: How Forex Brokers Manage Their Risk](#10)
+
+
+
 
 
 
@@ -324,5 +328,16 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Conflict of interest: ⚠ High
 - Best client profile: Many small, offsetting trades
 - Poor fit for model: Large, consistent winners (whales)
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="10"></a>
+#### 10. A-Book: How Forex Brokers Manage Their Risk
+🧩 What Is A-Book Execution?
+🔄 How It Works (Example)
+💵 How Broker Makes Money under A-Book
+⚠ Challenges and Risks for Broker
+✅ Why It Matters
 
 
