@@ -25,6 +25,9 @@
 
 [11-How A-Book Brokers Make Money](#11)
 
+[12-Challenges of A-Book Execution](#12)
+
+
 
 
 
@@ -390,3 +393,19 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - But it requires strong infrastructure, access to LPs, and enough trading volume to cover costs and make profit. 
 
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="12"></a>
+#### 12. Challenges of A-Book Execution
+⚠ What Makes A-Book Execution Challenging
+- Need for positive markup
+- Risk of negative markup
+- Slippage / delays when hedging
+- Execution risk under volatility
+  
+🎯 What Brokers Must Do to Mitigate these Risks
+- Only quote to clients when the broker knows markup will be favorable (i.e. LP rates are good enough).
+- Hedge client trades immediately and in sync, minimizing delay between client order and LP hedge.
+- Manage LP relationships carefully, ensure LP rates are competitive.
+- Use good infrastructure to reduce latency, minimize slippage. 
