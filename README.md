@@ -27,7 +27,7 @@
 
 [12-Challenges of A-Book Execution](#12)
 
-[13-STP Execution: How Forex Brokers Manage Their Risk](#13
+[13-STP Execution: How Forex Brokers Manage Their Risk](#13)
 
 [14-Internalization: How Forex Brokers Aggregate Orders and Hedge Residual Risk](#14)
 
