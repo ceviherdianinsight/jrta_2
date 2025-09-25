@@ -27,14 +27,7 @@
 
 [12-Challenges of A-Book Execution](#12)
 
-
-
-
-
-
-
-
-
+[13-STP Execution: How Forex Brokers Manage Their Risk](#13)
 
 
 ____
@@ -409,3 +402,17 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Hedge client trades immediately and in sync, minimizing delay between client order and LP hedge.
 - Manage LP relationships carefully, ensure LP rates are competitive.
 - Use good infrastructure to reduce latency, minimize slippage. 
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="13"></a>
+#### 13. STP Execution: How Forex Brokers Manage Their Risk
+🛠 What is STP Execution?
+🔍 STP vs A-Book (the difference in execution / hedging timing)
+⚖ Pros & Cons for Slippage, Speed & Risk
+🔄 “Riskless Principal” / “Matched Principal” Concept
+💵 How Brokers Make Money with STP
+✔ What to Watch For / Practical Implications
+
