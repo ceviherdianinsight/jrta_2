@@ -35,8 +35,9 @@
 
 [16-The “Hybrid Model” Used By Forex Brokers](#16)
 
+[17-C-Book: How Forex Brokers Manage Their Risk](#17)
 
-
+[18-Know Your Forex Broker’s Hedging Policy](#18)
 
 
 
@@ -541,4 +542,40 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 
 ✅ Key Takeaway
 - Most forex brokers operate under a hybrid model rather than purely A-Book or purely B-Book.
-- For a trader, the important thing is price transparency, fair execution, and having clear policies/disclosures about how order routing (A vs B vs internalization) works. 
+- For a trader, the important thing is price transparency, fair execution, and having clear policies/disclosures about how order routing (A vs B vs internalization) works.
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="17"></a>
+#### 17. C-Book: How Forex Brokers Manage Their Risk
+🔍 What is C-Book?
+- “C-Book” is a term used for risk-management strategies that are kind of in-between / beyond A-Book and B-Book methods.
+- According to BabyPips, it’s mostly marketing jargon, it’s not a wholly separate risk model, but more “tweaks or variations” of A- and B-Book execution.
+  
+🧩 Three Forms of C-Booking
+- Partial Hedging
+- Overhedging
+- Reverse Hedging
+  
+⚠ Why C-Book Methods Are Controversial / Risky
+- These methods are less transparent, it’s harder for clients to know how much risk the broker is keeping vs hedging.
+- Profit potential for brokers is higher in some scenarios, but also potential for large loss if trades don’t go as expected, especially with overhedging or reverse hedging.
+- Because “C-Book” blurs the line between fair execution (no conflict) vs broker benefiting from client losses, it raises conflict of interest concerns.
+  
+✅ Bottom Line
+- C-Book is not really a clean, separate execution model, it’s more like a spectrum of risk-handling strategies brokers use to try to optimize profit, sometimes combining elements of A-Book and B-Book.
+- If you are a trader, good to check whether your broker discloses whether they use C-Book variations, and how they hedge or don’t. Transparency matters.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="18"></a>
+#### 18. Know Your Forex Broker’s Hedging Policy
+🔍 What Is a Broker’s Hedging Policy?
+⚠ Why It Matters to You as a Trader
+🛠 What Brokers Do (Mechanisms & Practices)
+✅ What to Ask / Find Out from Your Broker
+🔍 Summary: Why Understanding This Is Critical
+
