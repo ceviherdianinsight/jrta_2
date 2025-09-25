@@ -23,6 +23,9 @@
 
 [10-A-Book: How Forex Brokers Manage Their Risk](#10)
 
+[11-How A-Book Brokers Make Money](#11)
+
+
 
 
 
@@ -335,9 +338,55 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 <a id="10"></a>
 #### 10. A-Book: How Forex Brokers Manage Their Risk
 🧩 What Is A-Book Execution?
+
+- In A-Book execution, the broker hedges client trades by placing an equivalent trade with a liquidity provider (LP).
+- The broker doesn’t absorb the directional risk itself; it offsets it via the LP.
+  
 🔄 How It Works (Example)
+- Trader buys 1,000,000 EUR/USD with broker → broker shorts internally.
+- Broker simultaneously buys 1,000,000 EUR/USD from LP.
+- If price moves in either direction, the broker nets out losses/gains from internal side vs hedge, making their P&L close to neutral.
+  
 💵 How Broker Makes Money under A-Book
+- Spread Markup: The broker adds a small spread over what they pay LPs.
+- Commissions: Fixed fee per volume traded.
+- Possibly financing / rollover / swap fees on carry positions.
+
 ⚠ Challenges and Risks for Broker
+- If the broker gives clients better prices than LPs’ rates, they lose money on each trade.
+- They must maintain competitive pricing vs LPs to preserve their markup margin.
+- Execution quality matters, slippage or latency can erode profits.
+  
 ✅ Why It Matters
+- With A-Book, the broker’s incentives align more with client success (less conflict of interest).
+- Less temptation to manipulate execution or delay orders (since broker hedged).
+- Transparency tends to be higher.
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="11"></a>
+#### 11. How A-Book Brokers Make Money
+💼 Revenue Model of A-Book Brokers
+- A-Book brokers do not profit when customers lose, instead, they offload the market risk by hedging every client trade with a liquidity provider (LP).
+- Their business is still a real business, they need to make money. 
+
+💵 Two Main Ways They Make Money
+- Commission
+- Spread Markup
+  
+🔄 Why Broker’s Profit is Stable (Regardless of Market Moves)
+- Because the broker hedges its exposure (via LPs), its P&L is not tied to whether clients win or lose.
+- Profit comes from the markup / commission, not from taking directional bets on price movement.
+
+
+📉 Example & Scale Effects
+- Example showing how spread markup works with specific numbers (EUR/USD, lots, etc.) to illustrate how even small markups (e.g. 1 pip) per lot add up.
+- For smaller position sizes (mini lots, micro lots), earnings per trade are small — so brokers need high volume (many trades, many clients) to produce meaningful revenue.
+  
+✅ Bottom-Line
+- A-Book model aligns broker incentives more with trader fairness: broker isn’t betting against you.
+- But it requires strong infrastructure, access to LPs, and enough trading volume to cover costs and make profit. 
 
 
