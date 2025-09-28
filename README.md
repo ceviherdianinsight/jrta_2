@@ -41,6 +41,9 @@
 
 [19-Where Does the Forex Broker’s Price Come From?](#19)
 
+[20-What is the Forex Broker’s Order Execution Quality?](#20)
+
+
 
 
 
@@ -638,4 +641,38 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Compare your broker’s quotes to independent sources (other brokers, market data feeds) to see if there are large deviations.
 
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="20"></a>
+#### 20. What is the Forex Broker’s Order Execution Quality?
+🔎 What is Order Execution Quality
+- How price sources are selected
+- Which liquidity providers (LPs) the broker uses
+- How order execution technology is implemented and monitored (speed, automation)
+- How conflicts of interest are managed when executing client orders.
+  
+📄 What is an Order Execution Policy
+- Average execution speed
+- Average spreads per pair, during peak vs non-peak hours
+- Percentage of trades executed at the requested price (with no slippage)
+- Percentage of trades with positive slippage & negative slippage
+- Percentage of orders successfully filled
+- How automated is their execution system vs manual handling?
+  
+✅ What to Ask / Evaluate
+⚠ Slippage & Order Fill Issues
+- Slippage: This is when the price at which your order is filled differs from the price you saw/expected. Can be positive (you get a better price) or negative (worse price).
+- Slippage tends to occur more in volatile or fast markets (news, economic events).
+- Speed matters: if execution takes too long, the price may move, increasing risk of slippage.
+
+🚦 What Good Execution Looks Like
+- Prices shown by the broker closely track real/institutional market prices in real time.
+- Orders get filled at or near requested prices, without much delay.
+- Transparent reporting: brokers publish order execution metrics (speed, slippage, fill rates) so clients can verify stuff.
+  
+🌍 Why This Matters
+- Even small losses via negative slippage or poor fills add up over many trades.
+- Spread + slippage + execution speed can materially affect profitability.
+- Some brokers may use fancy labels (“A-Book”, “STP”, “ECN”) but that doesn’t guarantee good execution quality. What matters is how they actually perform. 
 
