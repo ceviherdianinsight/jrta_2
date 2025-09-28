@@ -43,6 +43,9 @@
 
 [20-What is the Forex Broker’s Order Execution Quality?](#20)
 
+[21-3 Types of Forex Market Analysis](#21)
+
+
 
 
 
@@ -674,5 +677,28 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 🌍 Why This Matters
 - Even small losses via negative slippage or poor fills add up over many trades.
 - Spread + slippage + execution speed can materially affect profitability.
-- Some brokers may use fancy labels (“A-Book”, “STP”, “ECN”) but that doesn’t guarantee good execution quality. What matters is how they actually perform. 
+- Some brokers may use fancy labels (“A-Book”, “STP”, “ECN”) but that doesn’t guarantee good execution quality. What matters is how they actually perform.
 
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="21"></a>
+#### 21. 3 Types of Forex Market Analysis
+🧠 The Big Three: Types of Market Analysis
+- Technical Analysis:
+  - Focuses on charts, price patterns, indicators, support & resistance, trend lines.
+  - Premise: “All known information is reflected in price already,” so past price action can help forecast future behavior. 
+- Fundamental Analysis:
+  - Involves examining economic, political, and social factors that influence currencies (e.g. interest rates, inflation, GDP, central bank decisions).
+  - Looks “under the hood” of what drives a currency’s intrinsic value. 
+- Sentiment Analysis:
+  - Measures how traders feel (bullish or bearish), how market participants are positioned, and crowd behavior.
+  - Useful especially as a contrarian tool: extremes in sentiment often precede reversals. 
+
+🪑 Why All Three Matter (the 3-Legged Stool Analogy)
+- The article uses a three-legged stool metaphor: if one leg (type of analysis) is weak or missing, the stool (your trading approach) might collapse.
+- To trade well, a trader should be competent (at least to some degree) in all three analysis types, rather than relying solely on one. 
+
+💡 Additional Notes
+- The article mentions Quantitative Analysis (QA) as a fourth, more advanced method: using statistical / algorithmic / machine learning tools over large data sets. It’s beyond basics but widely used in algorithmic trading.
+- It argues that there’s no “best” analysis method; rather, combining insights from technical, fundamental, and sentiment approaches gives you a more balanced perspective. 
