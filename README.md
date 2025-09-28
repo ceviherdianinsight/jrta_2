@@ -45,6 +45,9 @@
 
 [21-3 Types of Forex Market Analysis](#21)
 
+[22-What is Technical Analysis?](#22)
+
+
 
 
 
@@ -701,4 +704,30 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 
 💡 Additional Notes
 - The article mentions Quantitative Analysis (QA) as a fourth, more advanced method: using statistical / algorithmic / machine learning tools over large data sets. It’s beyond basics but widely used in algorithmic trading.
-- It argues that there’s no “best” analysis method; rather, combining insights from technical, fundamental, and sentiment approaches gives you a more balanced perspective. 
+- It argues that there’s no “best” analysis method; rather, combining insights from technical, fundamental, and sentiment approaches gives you a more balanced perspective.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="22"></a>
+#### 22. What is Technical Analysis?
+🔍 Definition & Core Idea
+- Technical analysis studies historical price action to infer market conditions and possible future price movement.
+- It operates under the assumption that all known information is already reflected in price (i.e. “the market discounts everything”).
+- Thus, charts become the main tool: patterns, levels, trends, momentum, etc.
+  
+🧠 Philosophical Foundations / Beliefs
+- Market Efficiency / Pricing In Information: price incorporates all public (and sometimes private) information.
+- Crowd Psychology & Behavior: market participants’ emotions (fear, greed) form patterns and cycles.
+- History Repeats Itself: because human behavior is somewhat consistent, similar patterns tend to recur.
+- Fractals / Scale Invariance: patterns at one time scale may resemble patterns at different time scales.
+- Probabilistic Thinking: technical analysis doesn’t guarantee outcomes but provides probabilities and scenarios.
+  
+🔎 Practical Use & Limitations
+- Technical analysis is not about perfect prediction—it’s about identifying probability edges.
+- Because it’s subjective, different analysts can interpret the same chart differently.
+- Price patterns, support/resistance levels, trend lines, indicators (like moving averages, RSI, Bollinger Bands) are common tools in the technical analyst’s toolbox.
+- Because many traders use technical analysis, some patterns become self-fulfilling (if many are watching the same levels).
+
+  
+
