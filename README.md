@@ -49,6 +49,10 @@
 
 [23-What is Fundamental Analysis?](#23)
 
+[24-What is Sentiment Analysis?](#24)
+
+
+
 
 
 
@@ -756,3 +760,9 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Expectations & Forward Guidance: What markets expect central banks or governments to do matters; often price moves ahead of official announcements.
 🏛 Example Mechanism (How It Works in Practice)
 📌 Important Notes & Challenges
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="24"></a>
+#### 24. What is Sentiment Analysis?
