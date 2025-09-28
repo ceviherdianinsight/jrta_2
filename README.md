@@ -47,6 +47,9 @@
 
 [22-What is Technical Analysis?](#22)
 
+[23-What is Fundamental Analysis?](#23)
+
+
 
 
 
@@ -730,4 +733,26 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 - Because many traders use technical analysis, some patterns become self-fulfilling (if many are watching the same levels).
 
   
+<a name="id"></a>
+[**Back to HOME**](#100)
 
+<a id="23"></a>
+#### 23. What is Fundamental Analysis?
+📚 What Is Fundamental Analysis?
+- Fundamental analysis is the study of economic, social, and political forces that affect currency prices (rather than just charts).
+- The idea: by assessing a country’s economic health (and comparing to others), you can forecast whether its currency should strengthen or weaken.
+  
+⚖ Supply & Demand in Forex
+- Currency value is driven by supply and demand in foreign exchange — stronger economies draw more demand for their currency, pushing its price upward.
+- The challenge is in understanding which factors shift supply/demand.
+  
+🔍 Key Drivers / Economic Indicators
+- Interest Rates & Central Bank Policy
+  - Higher interest rates often attract foreign capital → increases demand for that country’s currency.
+  - Central banks (e.g. Federal Reserve) influence rates, quantitative easing, etc.
+- Economic Data / Macros: GDP growth, unemployment / nonfarm payroll, consumer spending, manufacturing / industrial production, trade balance / current account, inflation (CPI, PPI). 
+- Inflation & Purchasing Power: High inflation can erode currency value; central banks often respond by adjusting rates.
+- Political & Geopolitical Events: Elections, policy changes, trade wars, geopolitical instability can affect investor confidence and capital flows.
+- Expectations & Forward Guidance: What markets expect central banks or governments to do matters; often price moves ahead of official announcements.
+🏛 Example Mechanism (How It Works in Practice)
+📌 Important Notes & Challenges
