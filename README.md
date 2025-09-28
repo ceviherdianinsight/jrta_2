@@ -39,6 +39,9 @@
 
 [18-Know Your Forex Broker’s Hedging Policy](#18)
 
+[19-Where Does the Forex Broker’s Price Come From?](#19)
+
+
 
 
 
@@ -596,5 +599,43 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 🔍 Summary: Why Understanding This Is Critical
 - Because how and when your broker hedges can affect your costs, risk of slippage, possibility of trade offsets, and how stable your trade outcomes are.
 - Brokers prefer to hedge as little as needed (because hedging costs). So your broker might delay hedging or hedge only partially. Be aware.
-- Transparency here is a good sign. If a broker is vague/refuses to explain their hedging practices, it may be a red flag. 
+- Transparency here is a good sign. If a broker is vague/refuses to explain their hedging practices, it may be a red flag.
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="19"></a>
+#### 19. Where Does the Forex Broker’s Price Come From?
+
+🎯 What the Broker’s Price Quote Represents
+- Brokers show you two prices for each currency pair: Bid (sell) and Ask (buy). These together make your “price stream.”
+- The difference between ask and bid is the spread.
+
+🏛 OTC Nature of FX & No Central Market
+- The FX market is OTC (over-the-counter), not exchange-based. That means there is no single consolidated “market price” that all participants see.
+- Unlike stock exchanges (with NBBO etc.), forex does not have a universal public feed. 
+
+🧮 How Brokers Source Prices
+- Brokers get price quotes from liquidity providers (LPs), banks or financial institutions that make markets in FX.
+- They typically connect to a pool of multiple LPs, then aggregate or pick the best bid & best ask from among them.
+- The bid and ask could come from different LPs (i.e. best bid from LP A, best ask from LP B).
+- The broker uses a pricing engine to stream those aggregated prices to your platform (plus any markup). 
+
+💵 Markup & Price Adjustments
+- The prices you see usually include a markup (unless the broker charges commission).
+- Brokers may also have discretion in setting or adjusting prices, especially in volatile periods. 
+
+⚠ Risks & Price Manipulation
+- Because price sourcing and streaming is under the broker’s control, there is potential for price manipulation e.g. altering quotes during your order fills.
+- Brokers may exploit stop hunting, or asymmetric slippage (slippage that benefits the broker).
+- Since traders generally have no way to verify the broker’s internal pricing engine or sources, transparency is limited. 
+
+🧩 What You Should Check / Ask
+- Ask your broker to explain their pricing methodology and how they source prices from LPs.
+- Question whether they review and compare LP prices against external benchmarks.
+- Look for a written pricing policy and whether they allow deviations and under what conditions.
+- Compare your broker’s quotes to independent sources (other brokers, market data feeds) to see if there are large deviations.
+
+
 
