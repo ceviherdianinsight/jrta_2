@@ -574,8 +574,27 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 <a id="18"></a>
 #### 18. Know Your Forex Broker’s Hedging Policy
 🔍 What Is a Broker’s Hedging Policy?
+- Rather than hedging every trade immediately, many brokers hedge your exposure on a net basis.
+- They try to internalize (offset) opposite trades among their clients first. Only when there’s a net unbalanced exposure will they hedge externally in the institutional FX market.
+  
 ⚠ Why It Matters to You as a Trader
+- Trading Restrictions
+- Hedging policy influences how much margin you need; if your broker waits to hedge or doesn’t hedge fully, they may require more capital buffer.
+- If hedging is delayed or done after many client trades accumulate, there’s risk of price changes / slippage. Your trade’s fill or exit price might suffer.
+
 🛠 What Brokers Do (Mechanisms & Practices)
+- Internalization: matching opposite client trades, if one client is buying a pair and another is selling the same pair in roughly equal size, these offset inside. Reduces need to hedge.
+- External Hedging: for net exposure or when internal offsetting isn’t enough, brokers enter hedges with liquidity providers (LPs).
+- Risk Limits: brokers set thresholds on how much unhedged risk they are willing to hold. When risk exceeds, they hedge, limit trades, or shift clients/orders. 
+
 ✅ What to Ask / Find Out from Your Broker
+- Do you have your hedging policy in writing (in terms & conditions, or via support)?
+- Do you internalize and only hedge net exposure? Or do you hedge every trade (pre-hedge / STP)?
+- Who are your liquidity providers, and how reliable are they?
+- What are your margin requirements, especially under net vs full hedging scenarios? 
+
 🔍 Summary: Why Understanding This Is Critical
+- Because how and when your broker hedges can affect your costs, risk of slippage, possibility of trade offsets, and how stable your trade outcomes are.
+- Brokers prefer to hedge as little as needed (because hedging costs). So your broker might delay hedging or hedge only partially. Be aware.
+- Transparency here is a good sign. If a broker is vague/refuses to explain their hedging practices, it may be a red flag. 
 
