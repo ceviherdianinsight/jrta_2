@@ -1,7 +1,7 @@
 <a id="100"></a>
 **HOME**
 
-## Level_2:
+## II:
 
 [1-How to Choose a Forex Broker](#1)
 
@@ -52,6 +52,9 @@
 [24-What is Sentiment Analysis?](#24)
 
 [25-Which Type of Analysis for Forex Trading is Best?](#25)
+
+[26-3 Types of Price Charts and How to Read Them](#26)
+
 
 
 
@@ -774,6 +777,9 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 * Extreme sentiment (too bullish or too bearish) can signal a potential trend reversal.
 * Sentiment is influenced by fundamentals (economic data, policy) but affects short-term price behavior.
 * Tools used:
+  * COT (Commitment of Traders) report
+  * Positioning data from brokers or sentiment indexes
+  * Risk-on / risk-off behavior in markets
 * It’s best used with fundamental and technical analysis, not as a standalone strategy.
 * Contrarian traders often act opposite to extreme sentiment.
 * Goal: Understand what others feel, so you can position yourself more strategically.
@@ -790,4 +796,46 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 | **🟩 Fundamental Analysis (FA)** | Examines **economic, political, and financial factors** influencing currency values.      | • Explains *why* markets move<br>• Helps identify long-term trends<br>• Anticipates market reactions to data/news                     | • Slow to signal short-term entries<br>• Requires understanding of global economics<br>• News volatility may cause unpredictable spikes | Economic calendar, GDP, interest rates, inflation data, central bank speeches, employment reports                      | **Position traders**, **macro investors**, **long-term trend followers**                 |
 | **🟨 Sentiment Analysis (SA)**   | Measures the **market’s collective mood** — how bullish or bearish traders feel.          | • Reveals crowd behavior<br>• Useful for contrarian setups<br>• Complements TA & FA well                                              | • Not a precise timing tool<br>• Extreme sentiment can persist for long periods<br>• Hard to quantify emotions accurately               | COT (Commitment of Traders) report, broker positioning data, risk-on/risk-off indicators, volatility indexes (VIX)     | **Contrarian traders**, **swing traders**, **macro analysts** looking for turning points |
 
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="26"></a>
+#### 26. 3 Types of Price Charts and How to Read Them
+
+| **Chart Type**                | **Visual Representation 🖼️**                                             | **Data Shown 📈**                                      | **Pros ✅**                                                                                                       | **Cons ⚠️**                                                   | **Best For 👤**                                                    |
+| ----------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **📉 Line Chart**             | Simple line connecting closing prices over time                           | **Close price only** (no open, high, low)              | • Clean and easy to read<br>• Great for spotting long-term trends<br>• Minimal distractions                      | • Lacks detail (no OHLC info)<br>• Misses intraday volatility | • Beginners<br>• Long-term traders focusing on overall direction   |
+| **📊 Bar Chart (OHLC Chart)** | Vertical bars showing open (left tick), close (right tick), high, and low | **Open, High, Low, Close** for each period             | • Provides full price data<br>• Shows volatility & session range<br>• Less cluttered than candles                | • Less visually intuitive<br>• Harder for pattern recognition | • Intermediate traders<br>• Those analyzing volatility & structure |
+| **🕯️ Candlestick Chart**     | Colored candles: body = open–close range; wicks = highs/lows              | **Open, High, Low, Close** + **color-coded direction** | • Most visual and popular<br>• Easy to spot patterns & sentiment<br>• Ideal for price action and reversal setups | • Can appear noisy<br>• Overwhelming for new traders          | • Short-term traders<br>• Price-action and swing traders           |
+
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+
+<a id="27"></a>
+#### 27. Choosing the Right Chart: Line vs. Bar vs. Candlestick
+
+* Line Charts:
+  - Strengths: very simple and clear; great for spotting long-term trends by focusing only on closing prices.
+  - Weaknesses: lack detail (no information on open, high, low); not ideal for short-term traders needing intra-period data.
+  - Best use: long-term trend analysis or portfolio management where minute-by-minute detail is not required. 
+* Bar Charts (OHLC Charts):
+  - Strengths: include full data-per-period (open, high, low, close); good balance between clarity and detail; suitable across multiple time-frames.
+  - Weaknesses: less intuitive visually than candlesticks; can become cluttered and harder to interpret in fast-moving/volatile markets especially on short time‐frames.
+  - Best use: traders needing detailed price action but who also value clarity—for example medium-term traders or those analysing volatility.
+* Candlestick Charts:
+  - Strengths: very visual and intuitive; show the same OHLC data as bar charts but make it easier to observe bullish/bearish sentiment and recognise patterns (e.g., doji, hammer, engulfing).
+  - Weaknesses: can be overwhelming for beginners or when charts get very busy/volatile; too much visual “noise” may distract rather than assist.
+  - Best use: short-term trading, pattern recognition, price-action strategies, swing/ day traders looking for entry/exit signals.
+* Overall Insight
+  - The same underlying price data (open, high, low, close) is used for all chart types, what differs is the visual presentation and how much detail is shown.
+  - The “right” chart depends on your trading style, time-horizon and what information you need. What’s best for a long-term investor may not be for a day-trader.
+  - It’s wise to start with simpler charts (like line charts) if you’re new, then progress to more detailed ones (bar or candlestick) as you need more depth.
+ 
+
+<a name="id"></a>
+[**Back to HOME**](#100)
 
