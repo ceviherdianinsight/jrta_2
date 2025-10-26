@@ -51,6 +51,9 @@
 
 [24-What is Sentiment Analysis?](#24)
 
+[25-Which Type of Analysis for Forex Trading is Best?](#25)
+
+
 
 
 
@@ -766,3 +769,18 @@ Retail forex trading is not ownership of currencies, it’s speculation on excha
 
 <a id="24"></a>
 #### 24. What is Sentiment Analysis?
+* Sentiment analysis measures the overall mood or attitude of traders toward the market (bullish = optimistic, bearish = pessimistic).
+* It helps identify how the majority feels about a currency or market trend.
+* Extreme sentiment (too bullish or too bearish) can signal a potential trend reversal.
+* Sentiment is influenced by fundamentals (economic data, policy) but affects short-term price behavior.
+* Tools used:
+* It’s best used with fundamental and technical analysis, not as a standalone strategy.
+* Contrarian traders often act opposite to extreme sentiment.
+* Goal: Understand what others feel, so you can position yourself more strategically.
+
+<a name="id"></a>
+[**Back to HOME**](#100)
+
+<a id="25"></a>
+#### 25. Which Type of Analysis for Forex Trading is Best?
+
